@@ -1,6 +1,4 @@
-# Hello, I’m Lenka
-
-### 🚀 I'm looking for opportunities as a frontend developer 🚀
+# Hello, I’m Lenka  🚀
 
 * I'm currently improving my javascript skills.
 * I'm passionate of trying new features, plugins and libraries.
